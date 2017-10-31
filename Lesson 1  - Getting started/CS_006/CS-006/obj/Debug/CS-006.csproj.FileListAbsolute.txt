@@ -1,0 +1,9 @@
+C:\Users\Daler Rakhmet-Zade\source\repos\CS-006\CS-006\bin\CS-006.dll.config
+C:\Users\Daler Rakhmet-Zade\source\repos\CS-006\CS-006\bin\CS-006.dll
+C:\Users\Daler Rakhmet-Zade\source\repos\CS-006\CS-006\bin\CS-006.pdb
+C:\Users\Daler Rakhmet-Zade\source\repos\CS-006\CS-006\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Daler Rakhmet-Zade\source\repos\CS-006\CS-006\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Daler Rakhmet-Zade\source\repos\CS-006\CS-006\obj\Debug\CS-006.csprojResolveAssemblyReference.cache
+C:\Users\Daler Rakhmet-Zade\source\repos\CS-006\CS-006\obj\Debug\CS-006.csproj.CoreCompileInputs.cache
+C:\Users\Daler Rakhmet-Zade\source\repos\CS-006\CS-006\obj\Debug\CS-006.dll
+C:\Users\Daler Rakhmet-Zade\source\repos\CS-006\CS-006\obj\Debug\CS-006.pdb
