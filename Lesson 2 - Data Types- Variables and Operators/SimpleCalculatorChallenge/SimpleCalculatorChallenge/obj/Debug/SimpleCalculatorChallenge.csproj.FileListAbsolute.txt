@@ -1,0 +1,9 @@
+C:\Users\Daler Rakhmet-Zade\source\repos\SimpleCalculatorChallenge\SimpleCalculatorChallenge\bin\SimpleCalculatorChallenge.dll.config
+C:\Users\Daler Rakhmet-Zade\source\repos\SimpleCalculatorChallenge\SimpleCalculatorChallenge\bin\SimpleCalculatorChallenge.dll
+C:\Users\Daler Rakhmet-Zade\source\repos\SimpleCalculatorChallenge\SimpleCalculatorChallenge\bin\SimpleCalculatorChallenge.pdb
+C:\Users\Daler Rakhmet-Zade\source\repos\SimpleCalculatorChallenge\SimpleCalculatorChallenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Daler Rakhmet-Zade\source\repos\SimpleCalculatorChallenge\SimpleCalculatorChallenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Daler Rakhmet-Zade\source\repos\SimpleCalculatorChallenge\SimpleCalculatorChallenge\obj\Debug\SimpleCalculatorChallenge.csprojResolveAssemblyReference.cache
+C:\Users\Daler Rakhmet-Zade\source\repos\SimpleCalculatorChallenge\SimpleCalculatorChallenge\obj\Debug\SimpleCalculatorChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Daler Rakhmet-Zade\source\repos\SimpleCalculatorChallenge\SimpleCalculatorChallenge\obj\Debug\SimpleCalculatorChallenge.dll
+C:\Users\Daler Rakhmet-Zade\source\repos\SimpleCalculatorChallenge\SimpleCalculatorChallenge\obj\Debug\SimpleCalculatorChallenge.pdb
