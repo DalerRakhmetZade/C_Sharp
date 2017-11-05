@@ -1,0 +1,9 @@
+C:\Users\Daler Rakhmet-Zade\source\repos\ChallengeConditonalRadioButton\ChallengeConditonalRadioButton\bin\ChallengeConditonalRadioButton.dll.config
+C:\Users\Daler Rakhmet-Zade\source\repos\ChallengeConditonalRadioButton\ChallengeConditonalRadioButton\bin\ChallengeConditonalRadioButton.dll
+C:\Users\Daler Rakhmet-Zade\source\repos\ChallengeConditonalRadioButton\ChallengeConditonalRadioButton\bin\ChallengeConditonalRadioButton.pdb
+C:\Users\Daler Rakhmet-Zade\source\repos\ChallengeConditonalRadioButton\ChallengeConditonalRadioButton\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Daler Rakhmet-Zade\source\repos\ChallengeConditonalRadioButton\ChallengeConditonalRadioButton\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Daler Rakhmet-Zade\source\repos\ChallengeConditonalRadioButton\ChallengeConditonalRadioButton\obj\Debug\ChallengeConditonalRadioButton.csprojResolveAssemblyReference.cache
+C:\Users\Daler Rakhmet-Zade\source\repos\ChallengeConditonalRadioButton\ChallengeConditonalRadioButton\obj\Debug\ChallengeConditonalRadioButton.csproj.CoreCompileInputs.cache
+C:\Users\Daler Rakhmet-Zade\source\repos\ChallengeConditonalRadioButton\ChallengeConditonalRadioButton\obj\Debug\ChallengeConditonalRadioButton.dll
+C:\Users\Daler Rakhmet-Zade\source\repos\ChallengeConditonalRadioButton\ChallengeConditonalRadioButton\obj\Debug\ChallengeConditonalRadioButton.pdb
