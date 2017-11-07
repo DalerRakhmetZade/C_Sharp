@@ -1,0 +1,18 @@
+C:\Users\Daler Rakhmet-Zade\source\repos\ChallengeDaysBetweenDates\ChallengeDaysBetweenDates\bin\ChallengeDaysBetweenDates.dll.config
+C:\Users\Daler Rakhmet-Zade\source\repos\ChallengeDaysBetweenDates\ChallengeDaysBetweenDates\bin\ChallengeDaysBetweenDates.dll
+C:\Users\Daler Rakhmet-Zade\source\repos\ChallengeDaysBetweenDates\ChallengeDaysBetweenDates\bin\ChallengeDaysBetweenDates.pdb
+C:\Users\Daler Rakhmet-Zade\source\repos\ChallengeDaysBetweenDates\ChallengeDaysBetweenDates\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Daler Rakhmet-Zade\source\repos\ChallengeDaysBetweenDates\ChallengeDaysBetweenDates\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Daler Rakhmet-Zade\source\repos\ChallengeDaysBetweenDates\ChallengeDaysBetweenDates\obj\Debug\ChallengeDaysBetweenDates.csprojResolveAssemblyReference.cache
+C:\Users\Daler Rakhmet-Zade\source\repos\ChallengeDaysBetweenDates\ChallengeDaysBetweenDates\obj\Debug\ChallengeDaysBetweenDates.csproj.CoreCompileInputs.cache
+C:\Users\Daler Rakhmet-Zade\source\repos\ChallengeDaysBetweenDates\ChallengeDaysBetweenDates\obj\Debug\ChallengeDaysBetweenDates.dll
+C:\Users\Daler Rakhmet-Zade\source\repos\ChallengeDaysBetweenDates\ChallengeDaysBetweenDates\obj\Debug\ChallengeDaysBetweenDates.pdb
+C:\Users\Daler Rakhmet-Zade\source\repos\Lesson 4\ChallengeDaysBetweenDates\ChallengeDaysBetweenDates\bin\ChallengeDaysBetweenDates.dll.config
+C:\Users\Daler Rakhmet-Zade\source\repos\Lesson 4\ChallengeDaysBetweenDates\ChallengeDaysBetweenDates\bin\ChallengeDaysBetweenDates.dll
+C:\Users\Daler Rakhmet-Zade\source\repos\Lesson 4\ChallengeDaysBetweenDates\ChallengeDaysBetweenDates\bin\ChallengeDaysBetweenDates.pdb
+C:\Users\Daler Rakhmet-Zade\source\repos\Lesson 4\ChallengeDaysBetweenDates\ChallengeDaysBetweenDates\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Daler Rakhmet-Zade\source\repos\Lesson 4\ChallengeDaysBetweenDates\ChallengeDaysBetweenDates\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Daler Rakhmet-Zade\source\repos\Lesson 4\ChallengeDaysBetweenDates\ChallengeDaysBetweenDates\obj\Debug\ChallengeDaysBetweenDates.csprojResolveAssemblyReference.cache
+C:\Users\Daler Rakhmet-Zade\source\repos\Lesson 4\ChallengeDaysBetweenDates\ChallengeDaysBetweenDates\obj\Debug\ChallengeDaysBetweenDates.csproj.CoreCompileInputs.cache
+C:\Users\Daler Rakhmet-Zade\source\repos\Lesson 4\ChallengeDaysBetweenDates\ChallengeDaysBetweenDates\obj\Debug\ChallengeDaysBetweenDates.dll
+C:\Users\Daler Rakhmet-Zade\source\repos\Lesson 4\ChallengeDaysBetweenDates\ChallengeDaysBetweenDates\obj\Debug\ChallengeDaysBetweenDates.pdb
