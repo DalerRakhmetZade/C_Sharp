@@ -1,0 +1,9 @@
+C:\Users\Daler Rakhmet-Zade\source\repos\CS-ASP_017\CS-ASP_017\bin\CS-ASP_017.dll.config
+C:\Users\Daler Rakhmet-Zade\source\repos\CS-ASP_017\CS-ASP_017\bin\CS-ASP_017.dll
+C:\Users\Daler Rakhmet-Zade\source\repos\CS-ASP_017\CS-ASP_017\bin\CS-ASP_017.pdb
+C:\Users\Daler Rakhmet-Zade\source\repos\CS-ASP_017\CS-ASP_017\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Daler Rakhmet-Zade\source\repos\CS-ASP_017\CS-ASP_017\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Daler Rakhmet-Zade\source\repos\CS-ASP_017\CS-ASP_017\obj\Debug\CS-ASP_017.csprojResolveAssemblyReference.cache
+C:\Users\Daler Rakhmet-Zade\source\repos\CS-ASP_017\CS-ASP_017\obj\Debug\CS-ASP_017.csproj.CoreCompileInputs.cache
+C:\Users\Daler Rakhmet-Zade\source\repos\CS-ASP_017\CS-ASP_017\obj\Debug\CS-ASP_017.dll
+C:\Users\Daler Rakhmet-Zade\source\repos\CS-ASP_017\CS-ASP_017\obj\Debug\CS-ASP_017.pdb
