@@ -1,0 +1,9 @@
+C:\Users\Daler Rakhmet-Zade\source\repos\ChallengeEpicSpiesAssignment\ChallengeEpicSpiesAssignment\bin\ChallengeEpicSpiesAssignment.dll.config
+C:\Users\Daler Rakhmet-Zade\source\repos\ChallengeEpicSpiesAssignment\ChallengeEpicSpiesAssignment\bin\ChallengeEpicSpiesAssignment.dll
+C:\Users\Daler Rakhmet-Zade\source\repos\ChallengeEpicSpiesAssignment\ChallengeEpicSpiesAssignment\bin\ChallengeEpicSpiesAssignment.pdb
+C:\Users\Daler Rakhmet-Zade\source\repos\ChallengeEpicSpiesAssignment\ChallengeEpicSpiesAssignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Daler Rakhmet-Zade\source\repos\ChallengeEpicSpiesAssignment\ChallengeEpicSpiesAssignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Daler Rakhmet-Zade\source\repos\ChallengeEpicSpiesAssignment\ChallengeEpicSpiesAssignment\obj\Debug\ChallengeEpicSpiesAssignment.csprojResolveAssemblyReference.cache
+C:\Users\Daler Rakhmet-Zade\source\repos\ChallengeEpicSpiesAssignment\ChallengeEpicSpiesAssignment\obj\Debug\ChallengeEpicSpiesAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Daler Rakhmet-Zade\source\repos\ChallengeEpicSpiesAssignment\ChallengeEpicSpiesAssignment\obj\Debug\ChallengeEpicSpiesAssignment.dll
+C:\Users\Daler Rakhmet-Zade\source\repos\ChallengeEpicSpiesAssignment\ChallengeEpicSpiesAssignment\obj\Debug\ChallengeEpicSpiesAssignment.pdb
