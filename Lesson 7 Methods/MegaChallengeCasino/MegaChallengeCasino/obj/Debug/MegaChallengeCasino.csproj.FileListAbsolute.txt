@@ -1,0 +1,9 @@
+C:\Users\Daler Rakhmet-Zade\source\repos\MegaChallengeCasino\MegaChallengeCasino\bin\MegaChallengeCasino.dll.config
+C:\Users\Daler Rakhmet-Zade\source\repos\MegaChallengeCasino\MegaChallengeCasino\bin\MegaChallengeCasino.dll
+C:\Users\Daler Rakhmet-Zade\source\repos\MegaChallengeCasino\MegaChallengeCasino\bin\MegaChallengeCasino.pdb
+C:\Users\Daler Rakhmet-Zade\source\repos\MegaChallengeCasino\MegaChallengeCasino\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Daler Rakhmet-Zade\source\repos\MegaChallengeCasino\MegaChallengeCasino\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Daler Rakhmet-Zade\source\repos\MegaChallengeCasino\MegaChallengeCasino\obj\Debug\MegaChallengeCasino.csprojResolveAssemblyReference.cache
+C:\Users\Daler Rakhmet-Zade\source\repos\MegaChallengeCasino\MegaChallengeCasino\obj\Debug\MegaChallengeCasino.csproj.CoreCompileInputs.cache
+C:\Users\Daler Rakhmet-Zade\source\repos\MegaChallengeCasino\MegaChallengeCasino\obj\Debug\MegaChallengeCasino.dll
+C:\Users\Daler Rakhmet-Zade\source\repos\MegaChallengeCasino\MegaChallengeCasino\obj\Debug\MegaChallengeCasino.pdb
