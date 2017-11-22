@@ -1,0 +1,9 @@
+C:\Users\Daler Rakhmet-Zade\source\repos\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\bin\ChallengeForXmenBattleCount.dll.config
+C:\Users\Daler Rakhmet-Zade\source\repos\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\bin\ChallengeForXmenBattleCount.dll
+C:\Users\Daler Rakhmet-Zade\source\repos\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\bin\ChallengeForXmenBattleCount.pdb
+C:\Users\Daler Rakhmet-Zade\source\repos\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Daler Rakhmet-Zade\source\repos\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Daler Rakhmet-Zade\source\repos\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\obj\Debug\ChallengeForXmenBattleCount.csprojResolveAssemblyReference.cache
+C:\Users\Daler Rakhmet-Zade\source\repos\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\obj\Debug\ChallengeForXmenBattleCount.csproj.CoreCompileInputs.cache
+C:\Users\Daler Rakhmet-Zade\source\repos\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\obj\Debug\ChallengeForXmenBattleCount.dll
+C:\Users\Daler Rakhmet-Zade\source\repos\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\obj\Debug\ChallengeForXmenBattleCount.pdb
