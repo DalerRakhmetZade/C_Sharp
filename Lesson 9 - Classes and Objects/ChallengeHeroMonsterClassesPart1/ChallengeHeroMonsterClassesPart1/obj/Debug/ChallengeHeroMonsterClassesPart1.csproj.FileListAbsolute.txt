@@ -1,0 +1,18 @@
+c:\users\daler rakhmet-zade\source\repos\ChallengeHeroMonsterClassesPart1\ChallengeHeroMonsterClassesPart1\bin\ChallengeHeroMonsterClassesPart1.dll.config
+c:\users\daler rakhmet-zade\source\repos\ChallengeHeroMonsterClassesPart1\ChallengeHeroMonsterClassesPart1\bin\ChallengeHeroMonsterClassesPart1.dll
+c:\users\daler rakhmet-zade\source\repos\ChallengeHeroMonsterClassesPart1\ChallengeHeroMonsterClassesPart1\bin\ChallengeHeroMonsterClassesPart1.pdb
+c:\users\daler rakhmet-zade\source\repos\ChallengeHeroMonsterClassesPart1\ChallengeHeroMonsterClassesPart1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\daler rakhmet-zade\source\repos\ChallengeHeroMonsterClassesPart1\ChallengeHeroMonsterClassesPart1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\daler rakhmet-zade\source\repos\ChallengeHeroMonsterClassesPart1\ChallengeHeroMonsterClassesPart1\obj\Debug\ChallengeHeroMonsterClassesPart1.csprojResolveAssemblyReference.cache
+c:\users\daler rakhmet-zade\source\repos\ChallengeHeroMonsterClassesPart1\ChallengeHeroMonsterClassesPart1\obj\Debug\ChallengeHeroMonsterClassesPart1.csproj.CoreCompileInputs.cache
+c:\users\daler rakhmet-zade\source\repos\ChallengeHeroMonsterClassesPart1\ChallengeHeroMonsterClassesPart1\obj\Debug\ChallengeHeroMonsterClassesPart1.dll
+c:\users\daler rakhmet-zade\source\repos\ChallengeHeroMonsterClassesPart1\ChallengeHeroMonsterClassesPart1\obj\Debug\ChallengeHeroMonsterClassesPart1.pdb
+C:\Users\Daler Rakhmet-Zade\source\repos\Lesson 9\ChallengeHeroMonsterClassesPart1\ChallengeHeroMonsterClassesPart1\bin\ChallengeHeroMonsterClassesPart1.dll.config
+C:\Users\Daler Rakhmet-Zade\source\repos\Lesson 9\ChallengeHeroMonsterClassesPart1\ChallengeHeroMonsterClassesPart1\bin\ChallengeHeroMonsterClassesPart1.dll
+C:\Users\Daler Rakhmet-Zade\source\repos\Lesson 9\ChallengeHeroMonsterClassesPart1\ChallengeHeroMonsterClassesPart1\bin\ChallengeHeroMonsterClassesPart1.pdb
+C:\Users\Daler Rakhmet-Zade\source\repos\Lesson 9\ChallengeHeroMonsterClassesPart1\ChallengeHeroMonsterClassesPart1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Daler Rakhmet-Zade\source\repos\Lesson 9\ChallengeHeroMonsterClassesPart1\ChallengeHeroMonsterClassesPart1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Daler Rakhmet-Zade\source\repos\Lesson 9\ChallengeHeroMonsterClassesPart1\ChallengeHeroMonsterClassesPart1\obj\Debug\ChallengeHeroMonsterClassesPart1.csprojResolveAssemblyReference.cache
+C:\Users\Daler Rakhmet-Zade\source\repos\Lesson 9\ChallengeHeroMonsterClassesPart1\ChallengeHeroMonsterClassesPart1\obj\Debug\ChallengeHeroMonsterClassesPart1.csproj.CoreCompileInputs.cache
+C:\Users\Daler Rakhmet-Zade\source\repos\Lesson 9\ChallengeHeroMonsterClassesPart1\ChallengeHeroMonsterClassesPart1\obj\Debug\ChallengeHeroMonsterClassesPart1.dll
+C:\Users\Daler Rakhmet-Zade\source\repos\Lesson 9\ChallengeHeroMonsterClassesPart1\ChallengeHeroMonsterClassesPart1\obj\Debug\ChallengeHeroMonsterClassesPart1.pdb
