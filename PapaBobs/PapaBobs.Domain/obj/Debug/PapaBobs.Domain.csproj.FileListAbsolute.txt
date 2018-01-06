@@ -1,0 +1,17 @@
+C:\Users\Daler Rakhmet-Zade\source\repos\PapaBobs\PapaBobs.Domain\bin\Debug\PapaBobs.Domain.dll
+C:\Users\Daler Rakhmet-Zade\source\repos\PapaBobs\PapaBobs.Domain\bin\Debug\PapaBobs.Domain.pdb
+C:\Users\Daler Rakhmet-Zade\source\repos\PapaBobs\PapaBobs.Domain\obj\Debug\PapaBobs.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Daler Rakhmet-Zade\source\repos\PapaBobs\PapaBobs.Domain\obj\Debug\PapaBobs.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Daler Rakhmet-Zade\source\repos\PapaBobs\PapaBobs.Domain\obj\Debug\PapaBobs.Domain.dll
+C:\Users\Daler Rakhmet-Zade\source\repos\PapaBobs\PapaBobs.Domain\obj\Debug\PapaBobs.Domain.pdb
+C:\Users\Daler Rakhmet-Zade\source\repos\PapaBobs\PapaBobs.Domain\bin\Debug\PapaBobs.DTO.dll
+C:\Users\Daler Rakhmet-Zade\source\repos\PapaBobs\PapaBobs.Domain\bin\Debug\PapaBobs.Persistence.dll
+C:\Users\Daler Rakhmet-Zade\source\repos\PapaBobs\PapaBobs.Domain\bin\Debug\PapaBobs.DTO.pdb
+C:\Users\Daler Rakhmet-Zade\source\repos\PapaBobs\PapaBobs.Domain\bin\Debug\PapaBobs.Persistence.pdb
+C:\Users\Daler Rakhmet-Zade\source\repos\PapaBobs\PapaBobs.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Daler Rakhmet-Zade\source\repos\PapaBobs\PapaBobs.Domain\bin\Debug\PapaBobs.Persistence.dll.config
+C:\Users\Daler Rakhmet-Zade\source\repos\PapaBobs\PapaBobs.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Daler Rakhmet-Zade\source\repos\PapaBobs\PapaBobs.Domain\bin\Debug\PapaBobs.Domain.dll.config
+C:\Users\Daler Rakhmet-Zade\source\repos\PapaBobs\PapaBobs.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Daler Rakhmet-Zade\source\repos\PapaBobs\PapaBobs.Domain\bin\Debug\PapaBobs.DTO.dll.config
+C:\Users\Daler Rakhmet-Zade\source\repos\PapaBobs\PapaBobs.Domain\bin\Debug\EntityFramework.SqlServer.xml
