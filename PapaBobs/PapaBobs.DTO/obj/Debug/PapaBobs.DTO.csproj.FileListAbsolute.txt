@@ -1,0 +1,11 @@
+C:\Users\Daler Rakhmet-Zade\source\repos\PapaBobs\PapaBobs.DTO\bin\Debug\PapaBobs.DTO.dll
+C:\Users\Daler Rakhmet-Zade\source\repos\PapaBobs\PapaBobs.DTO\bin\Debug\PapaBobs.DTO.pdb
+C:\Users\Daler Rakhmet-Zade\source\repos\PapaBobs\PapaBobs.DTO\obj\Debug\PapaBobs.DTO.csprojResolveAssemblyReference.cache
+C:\Users\Daler Rakhmet-Zade\source\repos\PapaBobs\PapaBobs.DTO\obj\Debug\PapaBobs.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Daler Rakhmet-Zade\source\repos\PapaBobs\PapaBobs.DTO\obj\Debug\PapaBobs.DTO.dll
+C:\Users\Daler Rakhmet-Zade\source\repos\PapaBobs\PapaBobs.DTO\obj\Debug\PapaBobs.DTO.pdb
+C:\Users\Daler Rakhmet-Zade\source\repos\PapaBobs\PapaBobs.DTO\bin\Debug\PapaBobs.DTO.dll.config
+C:\Users\Daler Rakhmet-Zade\source\repos\PapaBobs\PapaBobs.DTO\bin\Debug\EntityFramework.dll
+C:\Users\Daler Rakhmet-Zade\source\repos\PapaBobs\PapaBobs.DTO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Daler Rakhmet-Zade\source\repos\PapaBobs\PapaBobs.DTO\bin\Debug\EntityFramework.xml
+C:\Users\Daler Rakhmet-Zade\source\repos\PapaBobs\PapaBobs.DTO\bin\Debug\EntityFramework.SqlServer.xml
